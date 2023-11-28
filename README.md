@@ -11,7 +11,7 @@
 - It is subset of AI.
 - It provides some statistical tools to explore and analyse the data.
 - Three different apporaches
-  1. Supervised 
+  ### 1. Supervised 
     - Past labled data
     - Learning from labeled data with a known outcome.
     - Supervised learning can be categorized into two main types.
@@ -23,10 +23,10 @@
         -  The algorithm predicts the category or class to which the input belongs. 
         -  It is used when the target variable is a label or a category. 
         -  Examples include spam detection, image recognition, or predicting whether an email is ham or spam.
-  2. Unsupervised
+  ### 2. Unsupervised
     - Finding patterns in unlabeled data without predefined outcomes.
     - clustering techniques
-  3. Reinforecement (Semi supervised)
+  ### 3. Reinforecement (Semi supervised)
     - Learning optimal actions through trial, error, and feedback from an environment.
 
 ## Deep Learning 
@@ -34,11 +34,12 @@
 - The main idea behined deep learning is to memic human brain.
 - Multi Neural Network Architecture.
 - Various techniques
-  1. ANN (Artificial Neural Network)
+
+  ### 1. ANN (Artificial Neural Network)
     - Most of the problem statements and Data which is actually present in the form of numbers.
-  2. CNN (Convolutional Neural Network)
+  ### 2. CNN (Convolutional Neural Network)
     - Input is in the form of images. 
-  3. RNN (Recurrent Neural Network)
+  ### 3. RNN (Recurrent Neural Network)
     - Input is the form of time series kind of data.
 
     
