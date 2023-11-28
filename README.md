@@ -20,6 +20,7 @@
           -  The algorithm predicts a continuous output or a numerical value. 
           -  It is used when the target variable is a real number or a quantity. 
           -  Examples include predicting house prices, temperature, or stock prices.
+          
     #####  2. Classification: 
           -  The algorithm predicts the category or class to which the input belongs. 
           -  It is used when the target variable is a label or a category. 
